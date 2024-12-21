@@ -1,5 +1,5 @@
 var mainBody;
-var audio = new Audio("/ting.mp3");
+var audio = new Audio("ting.mp3");
 
 function shuffle(array) {
     for (let i = array.length - 1; i > 0; i--) {
